@@ -106,9 +106,6 @@
         <mxCell id="uWUnNED6HEl2aK5fdaIb-101" value="Tag: 1.1.2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="510" y="158" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fSnZ5vnYTslC5NarKmr_-4" value="&lt;span style=&quot;text-align: center&quot;&gt;Feel free to add notes here about the process of merging into the release branch.&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=12;fontStyle=0;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="880" y="392" width="163.25" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="fSnZ5vnYTslC5NarKmr_-8" value="&lt;span style=&quot;text-align: center; font-size: 11px;&quot;&gt;Each tag represents a production release.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=11;fontStyle=0;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="94.5" y="158" width="120" height="38" as="geometry" />
         </mxCell>
